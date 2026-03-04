@@ -1,16 +1,17 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: My current interests, projects I am working on
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+My name is Noel Rodriguez-Lebron. I am an overall big nerd I work in IT:
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+- I am experienced with bash scripting and some powershell.
+- I would call myself an apple macOS expert
+- I don't like Windows but what can you do it's everywhere
 
 What else do you need?
 
 ### My story
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+I have been obsessed with tech from an early age. I took apart my first laptop (called a netbook back then). Got an android tablet rooted and installed custom roms. I think that ultimately led down the path I am now as an IT Professional.
